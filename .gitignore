@@ -8,9 +8,7 @@
 *.iml
 
 ## Directory-based project format:
-.idea/**/*.*
-.idea/*.*
-.idea/*
+.idea/
 
 ## File-based project format:
 *.ipr
