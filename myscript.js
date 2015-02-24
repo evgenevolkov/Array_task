@@ -17,4 +17,5 @@ var jenyaFlatternArray = function (Array) {
     return outputArray;
 };
 
+
 console.log(jenyaFlatternArray(dataArray));
